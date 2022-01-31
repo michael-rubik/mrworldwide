@@ -1,1 +1,0 @@
-API_KEY_SERVICE = "dd737f1d9816c4f99fa5e2bfaa9a1108"
